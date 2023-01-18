@@ -1,7 +1,3 @@
-## BIOL 300 FINAL 
-## Jennifer Nguyen 
-## 20629010 
-
 library(ggplot2)
 library(dplyr)
 library(binom)
