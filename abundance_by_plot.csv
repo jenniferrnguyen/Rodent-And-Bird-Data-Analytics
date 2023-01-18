@@ -1,0 +1,97 @@
+bird_species_name,plot_type,plot_id,abundance
+Ammodramus_savannarum,Control,12,1
+Ammodramus_savannarum,Krat Exclosure,19,1
+Amphispiza_bilineata,Control,2,14
+Amphispiza_bilineata,Control,4,3
+Amphispiza_bilineata,Control,8,6
+Amphispiza_bilineata,Control,11,2
+Amphispiza_bilineata,Control,12,28
+Amphispiza_bilineata,Control,14,8
+Amphispiza_bilineata,Control,17,3
+Amphispiza_bilineata,Control,22,12
+Amphispiza_bilineata,Krat Exclosure,3,10
+Amphispiza_bilineata,Krat Exclosure,6,17
+Amphispiza_bilineata,Krat Exclosure,13,25
+Amphispiza_bilineata,Krat Exclosure,15,12
+Amphispiza_bilineata,Krat Exclosure,18,9
+Amphispiza_bilineata,Krat Exclosure,19,11
+Amphispiza_bilineata,Krat Exclosure,20,37
+Amphispiza_bilineata,Krat Exclosure,21,8
+Amphispiza_bilineata,Rodent Exclosure,1,7
+Amphispiza_bilineata,Rodent Exclosure,5,2
+Amphispiza_bilineata,Rodent Exclosure,7,23
+Amphispiza_bilineata,Rodent Exclosure,9,9
+Amphispiza_bilineata,Rodent Exclosure,10,6
+Amphispiza_bilineata,Rodent Exclosure,16,9
+Amphispiza_bilineata,Rodent Exclosure,23,26
+Amphispiza_bilineata,Rodent Exclosure,24,16
+Calamospiza_melanocorys,Control,2,1
+Calamospiza_melanocorys,Control,8,1
+Calamospiza_melanocorys,Krat Exclosure,3,3
+Calamospiza_melanocorys,Krat Exclosure,15,1
+Calamospiza_melanocorys,Krat Exclosure,18,1
+Calamospiza_melanocorys,Krat Exclosure,21,2
+Calamospiza_melanocorys,Rodent Exclosure,9,1
+Calamospiza_melanocorys,Rodent Exclosure,10,2
+Calamospiza_melanocorys,Rodent Exclosure,23,1
+Callipepla_squamata,Control,2,1
+Callipepla_squamata,Control,22,1
+Callipepla_squamata,Krat Exclosure,3,1
+Callipepla_squamata,Krat Exclosure,19,1
+Callipepla_squamata,Krat Exclosure,20,4
+Callipepla_squamata,Rodent Exclosure,5,2
+Callipepla_squamata,Rodent Exclosure,16,2
+Callipepla_squamata,Rodent Exclosure,23,4
+Campylorhynchus_brunneicapillus,Control,4,1
+Campylorhynchus_brunneicapillus,Control,8,2
+Campylorhynchus_brunneicapillus,Control,11,1
+Campylorhynchus_brunneicapillus,Control,14,6
+Campylorhynchus_brunneicapillus,Control,17,1
+Campylorhynchus_brunneicapillus,Control,22,2
+Campylorhynchus_brunneicapillus,Krat Exclosure,3,1
+Campylorhynchus_brunneicapillus,Krat Exclosure,6,1
+Campylorhynchus_brunneicapillus,Krat Exclosure,13,14
+Campylorhynchus_brunneicapillus,Krat Exclosure,15,4
+Campylorhynchus_brunneicapillus,Krat Exclosure,20,3
+Campylorhynchus_brunneicapillus,Krat Exclosure,21,1
+Campylorhynchus_brunneicapillus,Rodent Exclosure,5,1
+Campylorhynchus_brunneicapillus,Rodent Exclosure,7,4
+Campylorhynchus_brunneicapillus,Rodent Exclosure,9,1
+Campylorhynchus_brunneicapillus,Rodent Exclosure,10,1
+Campylorhynchus_brunneicapillus,Rodent Exclosure,16,3
+Campylorhynchus_brunneicapillus,Rodent Exclosure,23,3
+Pipilo_chlorurus,Control,4,1
+Pipilo_chlorurus,Control,8,1
+Pipilo_chlorurus,Control,11,4
+Pipilo_chlorurus,Control,14,2
+Pipilo_chlorurus,Krat Exclosure,3,2
+Pipilo_chlorurus,Krat Exclosure,6,1
+Pipilo_chlorurus,Krat Exclosure,13,8
+Pipilo_chlorurus,Krat Exclosure,15,5
+Pipilo_chlorurus,Krat Exclosure,19,1
+Pipilo_chlorurus,Krat Exclosure,20,4
+Pipilo_chlorurus,Rodent Exclosure,1,1
+Pipilo_chlorurus,Rodent Exclosure,7,1
+Pipilo_chlorurus,Rodent Exclosure,9,2
+Pipilo_chlorurus,Rodent Exclosure,10,3
+Pipilo_chlorurus,Rodent Exclosure,23,3
+Pipilo_fuscus,Krat Exclosure,20,3
+Pipilo_fuscus,Rodent Exclosure,23,1
+Pipilo_fuscus,Rodent Exclosure,24,1
+Pipilo_sp.,Control,2,1
+Pipilo_sp.,Control,12,1
+Pipilo_sp.,Control,22,1
+Pipilo_sp.,Rodent Exclosure,1,3
+Pipilo_sp.,Rodent Exclosure,23,2
+Pooecetes_gramineus,Control,11,1
+Pooecetes_gramineus,Control,12,1
+Pooecetes_gramineus,Control,14,1
+Pooecetes_gramineus,Krat Exclosure,6,1
+Pooecetes_gramineus,Krat Exclosure,18,1
+Pooecetes_gramineus,Krat Exclosure,21,2
+Pooecetes_gramineus,Rodent Exclosure,16,1
+Sparrow_sp.,Control,11,2
+Sparrow_sp.,Krat Exclosure,13,1
+Sparrow_sp.,Krat Exclosure,15,1
+Zonotrichia_leucophrys,Krat Exclosure,18,1
+Zonotrichia_leucophrys,Rodent Exclosure,23,1
